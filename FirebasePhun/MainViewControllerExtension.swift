@@ -6,4 +6,11 @@
 //  Copyright © 2017 Patrick Paechnatz. All rights reserved.
 //
 
-import Foundation
+import UIKit
+import Firebase
+import FirebaseAuthUI
+import FirebaseGoogleAuthUI
+
+extension MainViewController {
+
+}
